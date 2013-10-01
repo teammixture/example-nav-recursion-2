@@ -1,0 +1,8 @@
+<li class="{% if navigation.sub-nav %}has-dropdown{% endif %}">
+	<a href="{{ navigation.slug }}">{{ navigation.name }}</a>
+	{% if navigation.sub-nav %}
+		<ul class="dropdown">
+			{% include "navigation" with navigation.sub-nav %}
+		</ul>
+	{% endif %}
+</li>

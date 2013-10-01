@@ -1,0 +1,164 @@
+{
+  "version": "4.3.0",
+	"navigation" : [
+		{
+			"name": "Services",
+			"slug": "/services",
+			"sub-nav": [
+				{
+					"name": "Data Center Services",
+					"slug": "/services/data-center-services",
+					"sub-nav": [
+						{
+							"name": "Colocation"
+						},
+						{
+							"name": "Disaster Recovery"
+						},
+						{
+							"name": "Compliance"
+						}
+					]
+				},
+				{
+					"name": "Cloud Services",
+					"slug": "/services/cloud-services",
+					"sub-nav": [
+						{
+							"name": "ION Cloud Services",
+							"slug": "/services/cloud-services/ion-cloud-services"
+						},
+						{
+							"name": "Enterprise Cloud Services",
+							"slug": "/services/cloud-services/enterprise-cloud-services"
+						},
+						{
+							"name": "Managed Cloud Services",
+							"slug": "/services/cloud-services/managed-cloud-services"
+						},
+						{
+							"name": "Hybrid Cloud Services",
+							"slug": "/services/cloud-services/hybrid-cloud-services"
+						},
+						{
+							"name": "Compliant Cloud Services",
+							"slug": "/services/cloud-services/compliant-cloud-services"
+						},
+						{
+							"name": "Disaster Recovery Cloud Services",
+							"slug": "/services/cloud-services/disaster-recovery-cloud-services"
+						},
+						{
+							"name": "Virtual Networking Cloud Services",
+							"slug": "/services/cloud-services/virtual-networking-cloud-services"
+						}
+					]
+				},
+				{
+					"name": "Managed Services",
+					"slug": "/services/managed-services",
+					"sub-nav": [
+						{
+							"name": "Technical Help Desk Services",
+							"slug": "/services/managed-services/technical-help-desk-services"
+						},
+						{
+							"name": "Monitoring",
+							"slug": "/services/managed-services/monitoring"
+						},
+						{
+							"name": "Server Management",
+							"slug": "/services/managed-services/server-management"
+						},
+						{
+							"name": "Managed Hosting",
+							"slug": "/services/managed-services/managed-hosting"
+						},
+						{
+							"name": "Data Backup Services",
+							"slug": "/services/managed-services/data-backup-services"
+						},
+						{
+							"name": "Data Recovery Services",
+							"slug": "/services/managed-services/data-recovery-services"
+						},
+						{
+							"name": "Data Replication Services",
+							"slug": "/services/managed-services/data-replication-services"
+						},
+						{
+							"name": "Disaster Recovery Services",
+							"slug": "/services/managed-services/disaster-recovery-services"
+						},
+						{
+							"name": "Security Services",
+							"slug": "/services/managed-services/security-services"
+						},
+						{
+							"name": "Compliance Services",
+							"slug": "/services/managed-services/compliance-services"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Resources",
+			"slug": "/resources",
+			"sub-nav": [
+				{
+					"name": "News",
+					"slug": "/resources/news"
+				},
+				{
+					"name": "Blog",
+					"slug": "/resources/blog"
+				},
+				{
+					"name": "Videos",
+					"slug": "/resources/videos"
+				},
+				{
+					"name": "Events",
+					"slug": "/resources/events"
+				},
+				{
+					"name": "Learning",
+					"slug": "/resources/learning"
+				}
+			]
+		},
+		{
+			"name": "About",
+			"slug": "/about",
+			"sub-nav": [
+				{
+					"name": "Leadership",
+					"slug": "/about/leadership"
+				},
+				{
+					"name": "History",
+					"slug": "/about/history"
+				},
+				{
+					"name": "Recognition",
+					"slug": "/about/recognition"
+				},
+				{
+					"name": "Data Centers",
+					"slug": "/about/data-centers"
+				}
+			]
+		},
+		{
+			"name": "Contact",
+			"slug": "/contact",
+			"sub-nav": [
+				{
+					"name": "Careers",
+					"slug": "/contact/careers"
+				}
+			]
+		}
+	]
+}
